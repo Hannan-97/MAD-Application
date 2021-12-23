@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="create_a_new_acount">Create a New Acount</string>
+    <string name="username">Username</string>
+    <string name="signup_form">Signup Form</string>
+    <string name="signup">Signup</string>
+    <string name="signup">Signup</string>
+    <string name="select">Select</string>
+    <string name="select_contact">Select Contact</string>
+    <string name="view_contact">View Contact</string>
+    <string name="send_email">Send email</string>
+</resources>
